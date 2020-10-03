@@ -1,0 +1,38 @@
+body{
+  background-color: #A6E8CA;
+}
+
+
+h1{
+  font-size: 62;
+  text-align: left;
+  color: #462419;
+  margin-bottom: 0;
+  padding-right: 980px;
+
+
+}
+
+a{
+  padding: 20px;
+
+}
+
+hr{
+  border: none;
+  border-top: 12px dotted #188A87;
+  width: 55px;
+  height: 5px;
+}
+
+img {
+  height: 90px;
+  width: 90px;
+
+}
+
+p{
+  color: #462419;
+  font-size: 150%;
+
+}
